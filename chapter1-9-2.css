@@ -14,8 +14,18 @@
   width: 300px;
   background-color: #eee;
   margin: 50px auto;
-  background-image: url(flow01.png);
-  
+}
+
+.step-visual {
+  margin: 10px;
+  height: 150px;
+  background-image: url(img/flow01.png);
+  background-size: contain;
+}
+
+.position {
+  position: absolute;
+  top:60px;
 }
 
 .step-logo {
