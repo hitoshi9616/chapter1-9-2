@@ -21,17 +21,14 @@
   height: 150px;
   background-image: url(img/flow01.png);
   background-size: contain;
-}
-
-.position {
-  position: absolute;
-  top:60px;
+  background-position: top;
 }
 
 .step-logo {
   background-color: #ff9a4b;
   width: 45px;
   height: 30px;
+  position: absolute;
 }
 
 span {
