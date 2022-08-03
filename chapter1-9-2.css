@@ -31,8 +31,8 @@
   margin: 10px;
   height: 150px;
   background-image: url(img/flow01.png);
-  background-size: contain;
-  background-position: top;
+  background-size: cover;
+  background-position: bottom;
 }
 
 
@@ -40,16 +40,16 @@
   margin: 10px;
   height: 150px;
   background-image: url(img/flow02.png);
-  background-size: contain;
-  background-position: top;
+  background-size: cover;
+  background-position: bottom;
 }
 
 .step3-visual {
   margin: 10px;
   height: 150px;
   background-image: url(img/flow03.png);
-  background-size: contain;
-  background-position: top;
+  background-size: cover;
+  background-position: bottom;
 }
 
 .step-logo {
